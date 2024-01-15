@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Hamza Asif</h1>
 
 - 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Backend
+
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: hamzaasifhb@gmail.com
 - 😄 My linkedin: https://www.linkedin.com/in/iamhb/
